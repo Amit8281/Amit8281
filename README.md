@@ -1,4 +1,5 @@
-![logo]()
+![logo](![image](https://user-images.githubusercontent.com/115937880/230317861-db392e2c-c01c-44ea-bc53-ab43c7c2e3e1.png)
+)
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
