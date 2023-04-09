@@ -25,3 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amit8281&show_icons=true&locale=en" alt="amit8281" /></p>
  <p align="center"><a href="https://github.com//DevilANANDGupta"></a><img src="https://camo.githubusercontent.com/43cb03321785d554cfa9cb419dbd1725d6f78a547fa1280c1727209f0b4f0c4d/68747470733a2f2f632e74656e6f722e636f6d2f33646762634d74364b783441414141692f7370696465722d696e736563742e676966"   </p>
+ <p align="center"><a href="https://github.com//DevilANANDGupta"></a><img src="https://th.bing.com/th/id/R.b9b75ef8592bf4c7a8849a3412ea9035?rik=WuJQxtG9q5FuPQ&riu=http%3a%2f%2f38.media.tumblr.com%2fd98c7e0c53e1aaa8521ddcb31a421373%2ftumblr_nbyrlaLLDw1s141c3o1_r1_400.gif&ehk=onWrUPYvehhLEFyCyw344EQBNMgR0da9I1z4gTSbc%2bc%3d&risl=&pid=ImgRaw&r=0"   </p>
